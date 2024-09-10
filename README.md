@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning React Programming Language
 - 💞️ I’m looking for Job.
 - 📫 You can reach me on Email- nawazishfaisal786@gmail.com And Phone no.- 7011485431
-- 😄 Pronouns: Any
 - ⚡ Fun fact: I am Good in coding and a fantasic lurner.
 
 <!---
